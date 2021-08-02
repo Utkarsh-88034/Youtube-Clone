@@ -1,0 +1,26 @@
+.recommended-video-card-container {
+  display: flex;
+  height: 100px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+.recommended-thumb {
+  height: 100px;
+  width: 168px;
+  margin-right: 10px;
+}
+.recommended-video-details {
+  display: flex;
+  flex-direction: column;
+}
+img {
+  height: 96px;
+  width: 168px;
+}
+.vid-title {
+  font-size: 15px;
+  margin-bottom: 5px;
+}
+p {
+  font-size: 12px;
+}

@@ -1,0 +1,25 @@
+.main-content {
+  flex: 0.8;
+  background-color: #f9f9f9;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.videocard-container {
+  margin-bottom: 40px;
+  width: 250px;
+  margin-right: 15px;
+  cursor: pointer;
+}
+.vid-thumbnail {
+  width: 250px;
+  height: 140px;
+}
+.vid-info-box {
+  display: flex;
+  gap: 10px;
+}
+.link {
+  text-decoration: none;
+  color: black;
+}
